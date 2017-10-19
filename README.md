@@ -1,5 +1,3 @@
 # README #
 
-A simple game engine and game created for a C and C++ course.
-
-Using SDL 1.2.
+A simple game engine with a top-down shooter game built upon the engine.
